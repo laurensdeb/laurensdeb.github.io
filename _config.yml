@@ -71,12 +71,6 @@ social:
   links: ["https://twitter.com/0x8deb"]# An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
-
 
 # Site Author
 author:
