@@ -261,7 +261,8 @@ DEPENDENCIES
   github-pages
   hawkins
   jekyll-feed
+  jekyll-redirect-from
   jekyll-sitemap
 
 BUNDLED WITH
-   2.1.4
+   2.2.3
