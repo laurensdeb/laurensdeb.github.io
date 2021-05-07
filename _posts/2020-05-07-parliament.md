@@ -60,3 +60,4 @@ The project detailed in this blog post was built together with four of my fellow
 - Tibo Vande Moortele
 - Chato De Veirman
 
+Also a big thank you to Bart Mesuere, and of course to everyone who has engaged with our visualizations and data over the last few days.
