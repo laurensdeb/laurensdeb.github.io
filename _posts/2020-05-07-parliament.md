@@ -2,6 +2,8 @@
 title: 'What’s up with our Federal Parliament? A look at the Chamber  of Representatives through its data.'
 date: 2020-05-07
 permalink: /posts/2020/05/parliament
+header:
+  image: parliament-header.png
 tags:
   - open data
   - projects
